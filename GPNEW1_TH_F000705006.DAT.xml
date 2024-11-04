@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SchemaCCM>
+    <Record>
+        <DataRec>GPNEW1    9007129520200220|GPNEW1_TH</DataRec>
+        <REFKEY>GPNEW1  GPNEW1  9999PCCM_PRTCT5               CCM_PRTCT5                       PDFCreator                               GPNEW1    9007129520200220|GPNEW1_TH</REFKEY>
+        <KEY>90071295Policy contract letter_TH_2020</KEY>
+        <DUP>N</DUP>
+        <LANGUAGE>T</LANGUAGE>
+        <PRINT-DATE>20 กุมภาพันธ์ 2563</PRINT-DATE>
+        <CHDRNUM>G0003259</CHDRNUM>
+        <POLNAM>TEST COMPANY</POLNAM>
+        <EFFDATE>01 มกราคม 2563</EFFDATE>
+        <POLYEAR>1</POLYEAR>
+        <CCDATE>01 มกราคม 2563</CCDATE>
+        <CRDATE>31 ธันวาคม 2563</CRDATE>
+        <TRANNO>00003</TRANNO>
+        <POSNAME>ดวงกมล อุทยานรักษา</POSNAME>
+        <CHANNEL>DI</CHANNEL>
+        <CHANELNAME>test</CHANELNAME>
+        <LICENSE>12315/2562</LICENSE>
+        <TRMMBR>65</TRMMBR>
+        <TRMSP>60</TRMSP>
+        <TRMCHD>21</TRMCHD>
+        <STRCHD>20</STRCHD>
+        <EDAY>60</EDAY>
+        <FCL>100,000.00</FCL>
+        <BILLFRQ>รายปี</BILLFRQ>
+        <DATEDUE>01 มกราคม 2563</DATEDUE>
+        <DETAIL-PRM>GAD1#       290.00/                               GAD4#       220.00/                               GDTL#   20,,000.00/                               GHO2#    6,,000.00/                               GHS1#    4,,000.00/                               GTLB#        12.00/</DETAIL-PRM>
+        <DETAIL-CLS>003#GHO2#SC/003#GHS1#SC/</DETAIL-CLS>
+        <SPCDTA>Dental  #ฟันปลอม/                                                Dental  #ประคบร้อนเย็น/                                          ER      #รักษาต่อเนื่อง 365 วัน/</SPCDTA>
+        <DTA-BF>GDTL/001/BDT2/  1,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GDTL/001/BDT3/  5,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/001/BDT3/       .00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/001/BH04/       .00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/003/BH04/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH11/  2,000.00/ 30/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH24/       .00/   /       .00/72        / 80/   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH26/       .00/   /       .00/          / 90/   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH11/  1,200.00/ 31/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH12/  2,400.00/  7/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH13/ 30,000.00/   /       .00/75        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH14/       .00/   / 30,000.00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH15/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH16/ 30,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH17/       .00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH18/  1,000.00/ 31/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH19/  5,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH20/  5,000.00/   /       .00/72        / 80/   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH21/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH22/       .00/   /       .00/          /100/   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH23/100,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH24/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BM01/  5,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BM02/  2,500.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BM03/  8,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH11/  1,200.00/ 31/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH12/  2,400.00/  7/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH13/ 30,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH14/       .00/   / 30,000.00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH15/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH16/ 30,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH17/       .00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH18/  1,000.00/ 31/       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH19/  5,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH20/  5,000.00/   /       .00/24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH21/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH22/       .00/   /       .00/          /100/   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH23/100,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH24/ 10,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BM01/  5,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BM02/  2,500.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BM03/  8,000.00/   /       .00/          /   /   /</DTA-BF>
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <QAT>1.เป็นพนักงานประจำของTEST COMPANY</QAT>
+        <QAT>2. พนักงานใหม่ตามคุณสมบัติข้อที่ 1 บุคคลใดซึ่งไม่ได้ปฏิบัติหน้าที่ หรืองาน</QAT>
+        <QAT>อย่างบุคคลแท้จริง ในวันที่ตนมีสิทธิ์เข้าร่วมเอาประกันภัยตามสัญญานี้ให้ถือ</QAT>
+        <QAT>ว่าบุคคลนั้นยังไม่มีคุณสมบัติเป็นผู้มีสิทธิ์เข้าร่วมจนกว่าจะถึงวันที่เข้าทำ</QAT>
+        <QAT>หน้าที่และเริ่มงานโดยปกติตามหน้าที่เต็มเวลา</QAT>
+        <QAT>3.มีสุขภาพสมบูรณ์แข็งแรงก่อนการเอาประกันภัย</QAT>
+        <QAT>4.มีอายุไม่เกิน 65</QAT>
+        <QAT>5.กรณีที่ผู้ขอเอาประกันภัยเข้าปฏิบัติหน้าที่เป็นทหาร ตำรวจ อาสาสมัครและปฏิ</QAT>
+        <QAT>บัติในสงคราม หรือ ปราบปราม ในกรณีเช่นนี้ถ้าผู้ใดได้รับความคุ้มครองเข้า</QAT>
+        <QAT>ปฏิบัติหน้าที่ดังกล่าวเป็นเวลาติดต่อกันเกินกว่า 30 วันจะถือว่าขาดคุณสมบัติ</QAT>
+        <QAT>และไม่มีสิทธิเข้าร่วมการประกันภัยนี้บริษัทจะคืนเบี้ยประกันภัยให้ตามอัตรา</QAT>
+        <QAT>ส่วนสำหรับระยะเวลาที่เข้าปฏิบัติหน้าที่ดังกล่าว</QAT>
+        <QAT>6.คู่สมรสและบุตรของพนักงานผู้มีสิทธิ์ทำประกันภัยตามโครงการนี้จะได้รับความ</QAT>
+        <QAT>คุ้มครองการประกันสุขภาพกลุ่มเท่านั้น และคู่สมรสต้องมีอายุไม่เกิน 60  ปี</QAT>
+        <QAT>บุตรอายุตั้งแต่ 2 สัปดาห์ ถึง 21 ปี หากกำลังศึกษาอยู่บริษัทจุคุ้มครองถึง</QAT>
+        <QAT>อายุ 23 ปี</QAT>
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <FILLER>:</FILLER>
+    </Record>
+</SchemaCCM>
