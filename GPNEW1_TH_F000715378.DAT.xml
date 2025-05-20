@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SchemaCCM>
+    <Record>
+        <DataRec>GPNEW1    0000038120241128|GPNEW1_TH</DataRec>
+        <REFKEY>GPNEW1  GPNEW1  9999PCCM_PRTCT5               CCM_PRTCT5                       PDFCreator                               GPNEW1    0000038120241128|GPNEW1_TH</REFKEY>
+        <KEY>00000381Policy letter_TH_20241128</KEY>
+        <DUP>N</DUP>
+        <LANGUAGE>T</LANGUAGE>
+        <PRINT-DATE>28 พฤศจิกายน  2567</PRINT-DATE>
+        <CHDRNUM>G0000011</CHDRNUM>
+        <POLNAM>บริษัท โตเกียวมารีนประกันชีวิต (ประเทศไทย) จำกัด (มหาชน)</POLNAM>
+        <EFFDATE>01 มกราคม 2567</EFFDATE>
+        <POLYEAR>22</POLYEAR>
+        <CCDATE>01 มกราคม 2567</CCDATE>
+        <CRDATE>31 ธันวาคม 2567</CRDATE>
+        <TRANNO />
+        <POSNAME>ธมนวรรณ ทองสอดแสง</POSNAME>
+        <CHANNEL>DI</CHANNEL>
+        <CHANELNAME>TOKIO MARINE LIFE INSURANCE</CHANELNAME>
+        <LICENSE>-</LICENSE>
+        <TRMMBR>65</TRMMBR>
+        <TRMSP />
+        <TRMCHD />
+        <STRCHD />
+        <EDAY />
+        <FCL>5,000,000.00</FCL>
+        <BILLFRQ>รายปี</BILLFRQ>
+        <DATEDUE>01 มกราคม 2567</DATEDUE>
+        <DETAIL-PRM>GAD3#  324,707.50/                                GDA3#   18,915.00/                                GHO1#1,449,346.25/                                GHO2#3,565,158.00/                                GHS1#4,347,716.25/                                GPTD#   93,852.50/                                GRC3#   34,677.50/                                GTLB#  862,837.50/</DETAIL-PRM>
+        <DETAIL-CLS />
+        <SPCDTA>OPD     #ไคโรแพกติก/</SPCDTA>
+        <DTA-BF>GHO1/005/BH05/   800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/001/BH04/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/001/BH05/  1000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/002/BH04/ 11000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/002/BH05/  1100.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/003/BH04/ 12000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/003/BH05/  1200.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/004/BH04/ 14000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/004/BH05/  1400.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/006/BH04/ 14000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/007/BH04/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/007/BH05/  1000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/008/BH04/ 11000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/008/BH05/  1100.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/009/BH04/ 12000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/009/BH05/  1200.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/014/BH04/ 14000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/014/BH05/  1400.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/041/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/041/BH05/  1500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/042/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/042/BH05/  1500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/043/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/043/BH05/  2000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/044/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/044/BH05/  2500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/045/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/045/BH05/  3000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/046/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/046/BH05/  1500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/047/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/047/BH05/  1500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/048/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/048/BH05/  2000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/049/BH04/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/049/BH05/  2500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO2/201/BH04/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH11/  2200.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH12/  4400.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH13/ 36000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH15/ 43500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH18/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH19/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH11/  2500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH12/  5000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH13/ 44000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH15/ 58000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH18/  1100.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH19/  6600.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/002/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH11/  3000.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH12/  6000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH13/ 60000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH15/ 72500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH18/  1500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH19/  9000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/003/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH11/  3500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH12/  7000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH13/ 70000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH15/101500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH18/  1750.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH19/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/004/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH11/  1800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH12/  3600.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH13/ 36000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH15/ 43500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH18/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH19/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/005/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH11/  3500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH12/  7000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH13/ 70000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH15/101500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH18/  1750.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH19/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/006/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH11/  2200.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH12/  4400.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH13/ 36000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH15/ 43500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH18/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH19/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/007/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH11/  2500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH12/  5000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH13/ 44000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH15/ 58000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH18/  1100.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH19/  6600.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/008/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH11/  3000.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH12/  6000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH13/ 60000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH15/ 72500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH18/  1500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH19/  9000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH20/  6000.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/009/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH11/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH12/  1600.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH13/ 16000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH15/ 16000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH18/   400.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH19/  2400.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH20/  4800.00/   /24        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/010/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH11/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH12/  1600.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH13/ 16000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH15/ 16000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH18/   400.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH19/  2400.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH20/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/011/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH11/  3500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH12/  7000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH13/ 70000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH15/101500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH18/  1750.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH19/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/014/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH11/  2200.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH12/  4400.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH13/ 36000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH15/ 43500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH18/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH19/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/021/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH11/  2500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH12/  5000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH13/ 44000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH15/ 58000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH18/  1100.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH19/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/022/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH11/  3000.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH12/  6000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH13/ 60000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH15/ 72500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH18/  1500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH19/  9000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/023/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH11/  3500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH12/  7000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH13/ 70000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH15/101500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH18/  1750.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH19/ 10000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/024/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH11/  2200.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH12/  4400.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH13/ 36000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH15/ 43500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH18/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH19/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/025/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH11/  2500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH12/  5000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH13/ 44000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH15/ 58000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH18/  1100.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH19/  6600.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/026/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH11/  3000.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH12/  6000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH13/ 60000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH15/ 72500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH18/  1500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH19/  9000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/027/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH11/  1800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH12/  3600.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH13/ 36000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH15/ 43500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH18/   800.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH19/  4800.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH20/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/031/BH29/      .00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <QAT>1.เป็นพนักงานประจำของบริษัท โตเกียวมารีนประกันชีวิต</QAT>
+        <QAT>2. พนักงานใหม่ตามคุณสมบัติข้อที่ 1 บุคคลใดซึ่งไม่ได้ปฏิบัติหน้าที่ หรืองาน</QAT>
+        <QAT>อย่างบุคคลแท้จริง ในวันที่ตนมีสิทธิ์เข้าร่วมเอาประกันภัยตามสัญญาที่ให้ถือ</QAT>
+        <QAT>ว่าบุคคลนั้นยังไม่มีคุณสมบัติเป็นผู้มีสิทธิ์เข้าร่วมจนกว่าจะถึงวันที่เข้าทำ</QAT>
+        <QAT>หน้าที่และเริ่มงานโดยปกติตามหน้าที่เต็มเวลา</QAT>
+        <QAT>3. มีสุขภาพสมบูรณ์แข็งแรงก่อนการเอาประกันภัย</QAT>
+        <QAT>4.มีอายุไม่เกิน 70</QAT>
+        <QAT>5.กรณีที่ผู้ขอเอาประกันภัยเข้าปฏิบัติหน้าที่เป็นทหาร ตำรวจ อาสาสมัคร และ</QAT>
+        <QAT>ปฏิบัติในสงคราม หรือ ปราบปราม ในกรณีเช่นนี้ ถ้าผู้ใดได้รับความคุ้มครองเข้า</QAT>
+        <QAT>ปฏิบัติหน้าที่ดังกล่าวเป็นเวลาติดต่อกันเกินกว่า 30 วัน จะถือว่า ขาด</QAT>
+        <QAT>คุณสมบัติ และไม่มีสิทธิเข้าร่วมการประกันภัยนี้ บริษัทจะคืนเบี้ยประกันภัยให้</QAT>
+        <QAT>ตามอัตราส่วนสำหรับ ระยะเวลาที่เข้าปฏิบัติหน้าที่ดังกล่าว</QAT>
+        <QAT>6. คู่สมรสและบุตรของพนักงานผู้มีสิทธิ์ทำประกันภัยตามโครงการนี้จะได้รับ</QAT>
+        <QAT>ความคุ้มครองการประกันสุขภาพกลุ่มเท่านั้น และคู่สมรสต้องมีอายุไม่เกิน     ปี</QAT>
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <FILLER>:</FILLER>
+    </Record>
+</SchemaCCM>
