@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SchemaCCM>
+    <Record>
+        <DataRec>GPNEW1    0169016820250520|GPNEW1_EN</DataRec>
+        <REFKEY>GPNEW1  GPNEW1  9999PCCM_PRTCT5               CCM_PRTCT5                       PDFCreator                               GPNEW1    0169016820250520|GPNEW1_EN</REFKEY>
+        <KEY>G0003938Policy Contract_EN_20250520</KEY>
+        <DUP>N</DUP>
+        <LANGUAGE>E</LANGUAGE>
+        <PRINT-DATE>20 พฤษภาคม 2568</PRINT-DATE>
+        <CHDRNUM>G0003938</CHDRNUM>
+        <POLNAM>Hihon AGRI (THAILAND) CO.LTD</POLNAM>
+        <EFFDATE>05 September  2024</EFFDATE>
+        <ISSUDATE>18 April 2025</ISSUDATE>
+        <POLYEAR>1</POLYEAR>
+        <CCDATE>05 September  2024</CCDATE>
+        <CRDATE>05 September  2025</CRDATE>
+        <TRANNO />
+        <POSNAME>Test pos name</POSNAME>
+        <CHANNEL>DI</CHANNEL>
+        <CHANELNAME>TOKIO MARINE LIFE INSURANCE</CHANELNAME>
+        <LICENSE>-</LICENSE>
+        <TRMMBR>65</TRMMBR>
+        <TRMSP>60</TRMSP>
+        <TRMCHD>26</TRMCHD>
+        <STRCHD>14</STRCHD>
+        <EDAY>28</EDAY>
+        <WAITP>COVER AFTER PASSING PROBATION OF 120 DAYS</WAITP>
+        <FCL>.00</FCL>
+        <BILLFRQ>Annual</BILLFRQ>
+        <DATEDUE>05 September  2024</DATEDUE>
+        <DETAIL-PRM>GAD4#      456.00/                                GCI1#    2,739.00/                                GDA4#       36.00/                                GDTL#    5,346.00/                                GHO1#   40,173.00/                                GHS1#   21,633.00/                                GOL1#    2,409.00/                                GPTD#      168.00/                                GRC4#       54.00/                                GTLB#    1,698.00/</DETAIL-PRM>
+        <DETAIL-CLS />
+        <SPCDTA>DENTAL  #Root Canal/</SPCDTA>
+        <DTA-BF>GDTL/001/BDT3/  2000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO1/001/BH01/  2000.00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH11/  2500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH12/  5000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH13/ 51000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH15/ 51000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH18/  1450.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH19/  8500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH20/  8500.00/   /72        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH21/  1200.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH26/  2500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH29/      .00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GOL1/001/BOL1/  6000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <QAT>1.Be a regular permanent employee of Hihong hagree (thailand) limited co..</QAT>
+        <QAT>2.A new applicant according to qualification no. 1, any person who is not</QAT>
+        <QAT>active at work on the date they are eligible to join under this insurance</QAT>
+        <QAT>contract, shall be deemed not to have the qualification to be eligible to</QAT>
+        <QAT>join until the date they commence duties and start working in full time.</QAT>
+        <QAT>3.Be a healthy person.</QAT>
+        <QAT>4.Ages under 65  years old before insurance effective</QAT>
+        <QAT>5.Whilst the insured member is performing duties as a member of armed</QAT>
+        <QAT>forces or a volunteer for a period of over 30 days, in such even the</QAT>
+        <QAT>company shall return the prorated premium for the period in duty.</QAT>
+        <QAT>6.Spouse and children of eligible members shall be entitled to group health</QAT>
+        <QAT>benefit only.  Eligible spouse must be not over 60  year</QAT>
+        <QAT>child must be between 14 week 26 year of age. In case that he/she</QAT>
+        <QAT>is pursuing his/her study, insurance will be covered until he/she reaches</QAT>
+        <QAT>the age of 28 years</QAT>
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <ELIDAY>28</ELIDAY>
+        <SA>300000.00</SA>
+        <FILLER />
+    </Record>
+</SchemaCCM>

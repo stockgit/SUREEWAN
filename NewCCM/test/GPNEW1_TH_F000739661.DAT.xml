@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SchemaCCM>
+    <Record>
+        <DataRec>GPNEW1    0170290020250331|GPNEW1_TH</DataRec>
+        <REFKEY>GPNEW1  GPNEW1  9999PCCM_PRTCT5               CCM_PRTCT5                       PDFCreator                               GPNEW1    0170290020250331|GPNEW1_TH</REFKEY>
+        <KEY>G0003976Policy Contract_TH_20250331</KEY>
+        <DUP>N</DUP>
+        <LANGUAGE>T</LANGUAGE>
+        <PRINT-DATE>31 March 2568</PRINT-DATE>
+        <CHDRNUM>G0003976</CHDRNUM>
+        <POLNAM>Habasit Company (Thailand) Limited</POLNAM>
+        <EFFDATE>21 October 2567</EFFDATE>
+        <ISSUDATE>10 Fabruary 2568</ISSUDATE>
+        <POLYEAR>1</POLYEAR>
+        <CCDATE>21 October 2567</CCDATE>
+        <CRDATE>21 October 2568</CRDATE>
+        <TRANNO />
+        <POSNAME>Satib Naenaun</POSNAME>
+        <CHANNEL>BK</CHANNEL>
+        <CHANELNAME>TOKIO MARINE LIFE INSURANCE</CHANELNAME>
+        <LICENSE>-</LICENSE>
+        <TRMMBR>65</TRMMBR>
+        <TRMSP>11</TRMSP>
+        <TRMCHD>12</TRMCHD>
+        <STRCHD>13</STRCHD>
+        <EDAY />
+        <WAITP>คุ้มครองตั้งแต่วันแรกของการทำงาน</WAITP>
+        <FCL>.00</FCL>
+        <BILLFRQ>Yearly</BILLFRQ>
+        <DATEDUE>21 October 2567</DATEDUE>
+        <DETAIL-PRM>GAD3#    3,924.00/                                GCI1#   23,400.00/                                GDA3#      288.00/                                GDTL#   16,848.00/                                GHO1#   62,250.00/                                GHS1#   37,596.00/                                GOL1#    4,632.00/                                GPTD#    1,440.00/                                GRC3#      468.00/                                GTLB#   14,400.00/</DETAIL-PRM>
+        <DETAIL-CLS />
+        <SPCDTA>DENTAL  #การครอบฟัน/                                             DENTAL  #การรักษาโรคเหงือก/                                      DENTAL  #การรักษารากฟัน/                                         DNTLDEN #ฟันปลอม/                                                DNTLDEN #เคลือบฟลูโอไรด์/                                        ER      #90/</SPCDTA>
+        <DTA-BF>GDTL/001/BDT3/  5000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHO1/001/BH01/  2500.00/ 30/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH11/  3500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH12/  7000.00/  7/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH13/ 70000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH15/ 70000.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH18/  2000.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH19/  6500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH20/  6500.00/   /72        /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH26/  3500.00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GHS1/001/BH29/      .00/ 31/          /   /   /</DTA-BF>
+        <DTA-BF>GOL1/001/BOL1/  7500.00/   /          /   /   /</DTA-BF>
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <DTA-BF />
+        <QAT>1.เป็นพนักงานประจำของ บริษัท ฮาบาสิต (ประเทศไทย) จำกัด</QAT>
+        <QAT>2. พนักงานใหม่ตามคุณสมบัติข้อที่ 1 บุคคลใดซึ่งไม่ได้ปฏิบัติหน้าที่ หรืองาน</QAT>
+        <QAT>อย่างบุคคลแท้จริง ในวันที่ตนมีสิทธิ์เข้าร่วมเอาประกันภัยตามสัญญาที่ให้ถือ</QAT>
+        <QAT>ว่าบุคคลนั้นยังไม่มีคุณสมบัติเป็นผู้มีสิทธิ์เข้าร่วมจนกว่าจะถึงวันที่เข้าทำ</QAT>
+        <QAT>หน้าที่และเริ่มงานโดยปกติตามหน้าที่เต็มเวลา</QAT>
+        <QAT>3. มีสุขภาพสมบูรณ์แข็งแรงก่อนการเอาประกันภัย</QAT>
+        <QAT>4. มีอายุไม่เกิน 65 ปี</QAT>
+        <QAT>5. กรณีที่ผู้ขอเอาประกันภัยเข้าปฏิบัติหน้าที่เป็นทหาร ตำรวจ อาสาสมัคร และ</QAT>
+        <QAT>ปฏิบัติในสงคราม หรือ ปราบปราม ในกรณีเช่นนี้ ถ้าผู้ใดได้รับความคุ้มครองเข้า</QAT>
+        <QAT>ปฏิบัติหน้าที่ดังกล่าวเป็นเวลาติดต่อกันเกินกว่า 30 วัน จะถือว่า ขาด</QAT>
+        <QAT>คุณสมบัติ และไม่มีสิทธิเข้าร่วมการประกันภัยนี้ บริษัทจะคืนเบี้ยประกันภัยให้</QAT>
+        <QAT>ตามอัตราส่วนสำหรับ ระยะเวลาที่เข้าปฏิบัติหน้าที่ดังกล่าว</QAT>
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <QAT />
+        <ELIDAY>30</ELIDAY>
+        <SA>3600000.00</SA>
+        <FILLER />
+    </Record>
+</SchemaCCM>
